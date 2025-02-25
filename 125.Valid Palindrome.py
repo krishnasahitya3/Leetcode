@@ -14,11 +14,6 @@ class Solution:
             start += 1
             end -= 1
         return True
-    
-#Approach 2:
-
-
-
 
 s = "A man, a plan, a canal: Panama"
 s = "race a car"
