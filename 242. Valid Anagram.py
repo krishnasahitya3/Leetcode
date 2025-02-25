@@ -19,18 +19,6 @@ class Solution:
                 return False 
             
         return True
-        
-
-# 
-#Approach 2
-
-
-
-
-
-# Approach 3
-
-
 
 s = "anagram" 
 t = "nagaram"
